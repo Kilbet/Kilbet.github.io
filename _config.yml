@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Peter Portfolio"
 title_separator          : "-"
-name                     : &name "Peter Wright Poo"
+name                     : &name "Peter Wright"
 description              : &description "personal description"
 url                      : https://kilbet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
