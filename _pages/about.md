@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Peter Wright"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+ I am a PhD student in the Bender Group of the [Center for Molecular Science Informatics] (https://www-cmi.ch.cam.ac.uk), part of the [Department of Chemistry] (https://www.ch.cam.ac.uk) at the University of Cambridge. I am currently pursueing the discovery of new adverse outcome pathways; the causal link of biological events between a drug interacting in the body at a molecular level - the mode of action (MoA), and an adverse outcome (AO) - the phenomenological side effect observed in clinical studies. I utilise in-vivo biological databases and current toxicological knowledge to graphically define a sequence of events, and develop validated computational predictive models (in-vitro) to support the inference between the biological events. My mission is two-fold. Firstly, to I aim to increase our understanding of MoAs, and exploit this to better improve hazard and risk assessments in the pharmaecutical pipeline - reducing drug candicate failures, and allow for a better focus of effort on more promising targets to help patients. Secondly, I aim to contribute to the replacement, refinement, and reduction of animals in research through development of in-vitro analyses - please see the [NC3Rs] (https://www.nc3rs.org.uk).
+
 
 A data-driven personal website
 ======
