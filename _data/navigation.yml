@@ -14,7 +14,7 @@ main:
     url: /teaching/    
     
   - title: "About Me"
-    url: /talks/
+    url: /about_me/
     
   - title: "CV"
     url: /cv/
