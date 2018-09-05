@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -14,7 +14,7 @@ main:
     url: /teaching/    
     
   - title: "About Me"
-    url: /about_me/
+    url: /aboutme/
     
   - title: "CV"
     url: /cv/
