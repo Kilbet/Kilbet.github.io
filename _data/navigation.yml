@@ -13,5 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "About Me"
+    url: /talks/
+    
   - title: "CV"
     url: /cv/
