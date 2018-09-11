@@ -14,7 +14,7 @@ main:
     url: /teaching/    
     
   - title: "About Me"
-    url: /year-archive/
+    url: /about-me/
     
   - title: "CV"
     url: /cv/
